@@ -8,6 +8,8 @@ load_dotenv()  # loads MONGO_URI from .env
 
 app = Flask(__name__)
 
+print("Feature branch update")
+
 # ---------- simple / and /api from previous step ----------
 @app.route('/')
 def home():

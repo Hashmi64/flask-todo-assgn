@@ -65,3 +65,17 @@ def success():
 
 if __name__ == '__main__':
     app.run(debug=True)
+
+@app.route('/submittodoitem', methods=['POST'])
+def submittodoitem():
+    itemName = request.form.get('itemName')
+    itemDescription = request.form.get('itemDescription')
+
+    doc = {
+        "itemName": itemName,
+        "itemDescription": itemDescription
+    }
+
+    collection.insert_one(doc)
+
+    return "To-Do item saved successfully!"

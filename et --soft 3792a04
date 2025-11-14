@@ -1,0 +1,11 @@
+[33m4997aca[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m Merge branch 'master_1'
+[33mf6aea57[m[33m ([m[1;31morigin/master_1[m[33m, [m[1;32mmaster_1[m[33m)[m Added Item Hash field
+[33m07f2149[m Added Item UUID field
+[33m3792a04[m Added Item ID field
+[33mea7eef7[m[33m ([m[1;33mtag: [m[1;33mv1.0[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Merge pull request #3 from Hashmi64/master_1
+[33m5ba2218[m Merge pull request #2 from Hashmi64/master_2
+[33m47e9e7e[m[33m ([m[1;31morigin/master_2[m[33m, [m[1;32mmaster_2[m[33m)[m Added backend route for To-Do
+[33m7c4c48f[m Added To-Do frontend page
+[33m9f2e138[m Merge pull request #1 from Hashmi64/feature
+[33mcd2c458[m[33m ([m[1;31morigin/feature[m[33m, [m[1;32mfeature[m[33m)[m Feature update added
+[33ma3dd299[m[33m ([m[1;31morigin/Hashmi64[m[33m, [m[1;32mHashmi64[m[33m)[m Added Flask TODO project files
